@@ -10,7 +10,6 @@ public class Main {
     }
 
     public static void maxAndMinLoopChallenge() {
-
         Scanner scanner = new Scanner(System.in);
 
         int max = 0;
